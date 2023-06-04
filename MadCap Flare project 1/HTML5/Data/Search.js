@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Medicine/Electronic Health Records.htm'],s:['2002'],p:[['2002',1],['machines',12]]});
