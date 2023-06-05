@@ -48,6 +48,16 @@ I also used a variety of other software and services, including generative AI to
 </div>
 </script>
 
+<table style="border: none;"> 
+<tr> 
+<td style="border: none;"><img src="images/MadCap1-1.png" alt=""></td> 
+<td style="border: none;"><img src="images/MadCap1-2.png"></td> 
+<td style="border: none;"><img src="images/MadCap1-3.png" alt=""></td> 
+<td style="border: none;"><img src="images/MadCap1-4.png"></td> 
+<td style="border: none;"><img src="images/MadCap1-5.png" alt=""></td> 
+</tr> 
+</table>
+
 
 
 <script src="md-gallery.js"></script>
