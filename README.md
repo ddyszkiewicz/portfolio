@@ -17,4 +17,4 @@ For this project, I used __MadCap Flare__ to create outputs in popular formats: 
 
 I also used a variety of other software and services, including generative AI tools. I created the text contents using __ChatGPT__ (with minor manual revisions). I generated all images using __Stable Diffusion__, __Crayon__, (plus __GIMP__ for the cover page/homepage image), and __Canva__ for the favicon and logo.
 
-| ![](/images/MadCap1-1.png) | ![](/images/MadCap1-2.png) | ![](/images/MadCap1-3.png) | ![](/images/MadCap1-4.png) | ![](/images/MadCap1-1.png) |
+| [![](images/MadCap1-1.png)] | [![](images/MadCap1-2.png)] | [![](images/MadCap1-3.png)] | [![](images/MadCap1-4.png)] | [![](images/MadCap1-1.png)] |
