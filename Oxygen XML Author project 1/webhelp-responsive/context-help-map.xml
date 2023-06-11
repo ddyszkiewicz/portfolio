@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="license" path="license.html"/>
    <appContext helpID="introduction" path="introduction.html"/>
    <appContext helpID="overview-of-daydial" path="Overview_of_DayDial.html"/>
    <appContext helpID="about-this-user-guide" path="About_This_User_Guide.html"/>
@@ -51,4 +50,5 @@
    <appContext helpID="daydial" path="Now.html"/>
    <appContext helpID="daydial" path="ring.html"/>
    <appContext helpID="Editor_0" path="time_boxing.html"/>
+   <appContext helpID="license" path="license.html"/>
 </map>
