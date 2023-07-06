@@ -31,4 +31,4 @@ See the [__HTML5__](https://ddyszkiewicz.github.io/MadCap-Flare-project-1-HTML-p
 
 ## Oxygen XML Author project 1
 
-See the [__webhelp__](https://ddyszkiewicz.github.io/ddyszkiewicz-Oxygen-project-1-webhelp-preview/) and the [__PDF__](https://raw.githubusercontent.com/ddyszkiewicz/portfolio/main/Oxygen%20XML%20Author%20project%201/PDF/DayDial%20User%20Guide.pdf) outputs.
+See the [__webhelp__](https://ddyszkiewicz.github.io/ddyszkiewicz-Oxygen-project-1-webhelp-preview/) and the [__PDF__](https://raw.githubusercontent.com/ddyszkiewicz/portfolio/main/Oxygen%20XML%20Author%20project%201/pdf/DayDial%20User%20Guide.pdf) outputs.
