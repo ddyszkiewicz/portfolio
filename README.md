@@ -17,6 +17,7 @@ For this project, I used __MadCap Flare__ to create outputs in popular formats: 
 
 I also used a variety of other software and services, including generative AI tools. I created the text contents using __ChatGPT__ (with minor manual revisions). I generated all images using __Stable Diffusion__, __Crayon__, (plus __GIMP__ for the cover page/homepage image), and __Canva__ for the favicon and logo.
 
+See the [__HTML5__](https://ddyszkiewicz.github.io/MadCap-Flare-project-1-HTML-preview/) and the [__PDF__](https://raw.githubusercontent.com/ddyszkiewicz/portfolio/main/MadCap%20Flare%20project%201/PDF/Open%20Source%20Solutions%20in%20Various%20Industries.pdf) outputs.
 
 <table style="border: none;"> 
 <tr> 
@@ -27,3 +28,7 @@ I also used a variety of other software and services, including generative AI to
 <td style="border: none;"><img src="images/MadCap1-5.png" alt=""></td> 
 </tr> 
 </table>
+
+## Oxygen XML Author project 1
+
+See the [__webhelp__](https://ddyszkiewicz.github.io/ddyszkiewicz-Oxygen-project-1-webhelp-preview/) and the [__PDF__](https://raw.githubusercontent.com/ddyszkiewicz/portfolio/main/Oxygen%20XML%20Author%20project%201/PDF/DayDial%20User%20Guide.pdf) outputs.
